@@ -1,7 +1,7 @@
 ---
 name: Flatiron Consulting
 tools: [Rails, HTML, CSS, OAuth]
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.coursereport.com%2Fschools%2Fflatiron-school&psig=AOvVaw14F46hM4i6x_V_-KhxlThn&ust=1598510038513000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi92ouguOsCFQAAAAAdAAAAABAD
+image: "../images/project2.png"
 description: This project is a Q&A website for a consulting company. Make your life easier by having easy access to your consultant. 
 ---
 <br>
