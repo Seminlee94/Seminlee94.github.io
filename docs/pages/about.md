@@ -29,7 +29,8 @@ Jogging, and Hiking with my 4 year old girl, Cooking, Football, Lacrosse, and of
 <br>
 
 ## Resume
-<img src="../images/Resume.png">
+![Alt](../images/Se Min Lee resume.pdf)
+
 
 
 <!-- {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %} -->
