@@ -2,6 +2,6 @@
   percentage: 85
   color: success
   
-- name: PostgreSQL
+- name: MongoDB
   percentage: 80
   color: info

@@ -28,6 +28,10 @@ I would like to share my diverse knowledge with other developers, as well as lea
 Jogging, and Hiking with my 4 year old girl, Cooking, Football, Lacrosse, and of course, CODING  
 <br>
 
+## Certifications
+- M001: MongoDB Basics
+
+
 ## Resume
 ![](../images/Se Min Lee resume.pdf)
 
