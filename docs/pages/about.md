@@ -46,4 +46,4 @@ Jogging, and Hiking with my 4 year old girl, Cooking, Football, Lacrosse, and of
 
 ## Resume
 ![](../images/Resume.png)
-{% include index.html %}
+{% include about.html %}
