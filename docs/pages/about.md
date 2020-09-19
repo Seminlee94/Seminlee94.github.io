@@ -46,4 +46,4 @@ Jogging, and Hiking with my 4 year old girl, Cooking, Football, Lacrosse, and of
 
 ## Resume
 ![](../images/Resume.png)
-{% include /Users/imac/Desktop/portfolio_profile/seminlee94.github.io/_includes/about/about.html %}
+{% /Users/imac/Desktop/portfolio_profile/seminlee94.github.io/_includes/about/about.html %}
