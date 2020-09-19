@@ -45,10 +45,5 @@ Jogging, and Hiking with my 4 year old girl, Cooking, Football, Lacrosse, and of
 
 
 ## Resume
-![](../images/SeMinLeeresume.pdf)
-<!-- {% seminlee94.github.io/docs/images/SeMinLeeresume.pdf %} -->
+<!-- {% include %} -->
 
-
-
-<!-- {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %} -->
-<!-- {% include about/skills.html title="Other Skills" source=site.data.other-skills %} -->
