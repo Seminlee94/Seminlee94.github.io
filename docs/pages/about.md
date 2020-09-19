@@ -18,10 +18,22 @@ Other than nursing background, I was in biomedical engineering major until 3rd y
 
 I would like to share my diverse knowledge with other developers, as well as learn from the others. In next 5 years, I envision myself working as a full-stack engineer, working collaboratively with others of common goals to pursue for the best for the company.
 
-<div class="row">
+## Programming Skills
+<br>
+- Ruby
+- Ruby on Rails
+- Javascript
+- React
+- HTML5
+- CSS 
+- PostgreSQL
+- MongoDB
+<br>
+
+<!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+</div> -->
 
 ## Hobbies
 <br>
