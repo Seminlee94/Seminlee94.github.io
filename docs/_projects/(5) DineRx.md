@@ -5,7 +5,6 @@ image: "../images/DineRx/login3.gif"
 description: Online platform for hospital patients to order their meals online instead of calling the cafeteria. Patients can also see educational facts and videos about their diets.
 ---
 <br>
-<br>
 
 # DineRx 💊💊💊
 
