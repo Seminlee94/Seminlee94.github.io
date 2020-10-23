@@ -30,7 +30,7 @@ This project is an extension of Mod 1 & Mod 3 projects of grocery E-commerce. Mo
 <br>
 
 ### DEMO
-<iframe width="938" height="536" src="https://www.youtube.com/watch?v=KqbWtAAxiPc&t=3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="957" height="538" src="https://www.youtube.com/embed/KqbWtAAxiPc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>

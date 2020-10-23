@@ -20,6 +20,7 @@ I would like to share my diverse knowledge with other developers, as well as lea
 
 ## Programming Skills
 <br>
+<div style="display:flex">
 - Ruby
 - Ruby on Rails
 - Javascript
@@ -28,6 +29,7 @@ I would like to share my diverse knowledge with other developers, as well as lea
 - CSS 
 - PostgreSQL
 - MongoDB
+</div>
 <br>
 
 <!-- <div class="row">
@@ -46,5 +48,5 @@ Jogging, and Hiking with my 4 year old girl, Cooking, Football, Lacrosse, and of
 
 ## Resume
 <!-- ![](../images/Resume.png) -->
-<a href="https://drive.google.com/file/d/1yl8b4rX-56hn1ydtRhvdwW3-T-pBMhui/view?usp=sharing" target="_blank">Click for most updated Resume</a>
+<a href="https://drive.google.com/file/d/1wu4Y1qK-GAHyaLMmdUoMWxxFbGV1weus/view?usp=sharing" target="_blank">Click for most updated Resume</a>
 
