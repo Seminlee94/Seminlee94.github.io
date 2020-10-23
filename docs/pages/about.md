@@ -26,11 +26,11 @@ I would like to share my diverse knowledge with other developers, as well as lea
 - Javascript
 - React
 - HTML5
-![](../images/language_icons/bootstrap-plain-wordmark.svg)
 - CSS 
 - PostgreSQL
 - MongoDB
 </div>
+![](../images/language_icons/bootstrap-plain-wordmark.svg)
 <br>
 
 <!-- <div class="row">
