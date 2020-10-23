@@ -30,8 +30,14 @@ I would like to share my diverse knowledge with other developers, as well as lea
 - PostgreSQL
 - MongoDB
 </div>
-![](../images/language_icons/bootstrap-plain-wordmark.svg)
+<!-- ![](../images/language_icons/bootstrap-plain-wordmark.svg) -->
 <br>
+
+{::nomarkdown}
+
+{:/}
+
+
 
 <!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
