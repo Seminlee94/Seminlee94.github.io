@@ -21,7 +21,7 @@ I would like to share my diverse knowledge with other developers, as well as lea
 ## Programming Skills
 <br>
 <div style="display:flex">
-- Ruby
+ Ruby
 - Ruby on Rails
 - Javascript
 - React
@@ -55,5 +55,5 @@ Jogging, and Hiking with my 4 year old girl, Cooking, Football, Lacrosse, and of
 
 ## Resume
 <!-- ![](../images/Resume.png) -->
-<a href="https://drive.google.com/file/d/1wu4Y1qK-GAHyaLMmdUoMWxxFbGV1weus/view?usp=sharing" target="_blank">Click for most updated Resume</a>
+<a href="https://drive.google.com/file/d/1Z_lztXcXuykOXg_uTLoRHjsatNpdMLQU/view?usp=sharing" target="_blank">Click for most updated Resume</a>
 
