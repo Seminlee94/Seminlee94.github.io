@@ -37,34 +37,17 @@ Since I was first enrolled into Stony Brook University as a Biomedical Engineeri
 <img src="../images/Javascript.jpeg" alt="Javascript" width="60px" height="60px"/>
 <img src="../images/Python.jpeg" alt="Python" width="60px" height="60px"/>
 <img src="../images/React.png" alt="React" width="60px" height="60px"/>
-<img src="../images/Redux.png" alt="Redux" width="60px" height="60px"/>
-<img src="../images/PostgreSQL.png" alt="PostgreSQL" width="60px" height="60px"/>
-<img src="../images/MySQL.png" alt="MySQL" width="60px" height="60px"/>
-<img src="../images/MongoDB.jpeg" alt="MongoDB" width="60px" height="60px"/>
-<img src="../images/HTML.png" alt="HTML" width="60px" height="60px"/>
-<img src="../images/CSS.png" alt="CSS" width="60px" height="60px"/>
-<!-- ![](../images/ruby.jpg =100px)
-![](../images/rails.jpeg =100px)
-![](../images/javascript.jpeg =100px)
-![](../images/python.jpeg =100px)
-![](../images/react.png =100px)
-![](../images/redux.png =100px)
-![](../images/postgreSQL.png =100px)
-![](../images/mysql.png =100px)
-![](../images/mongodb.jpeg =100px)
-![](../images/html.png =100px)
-![](../images/css.png =100px) -->
+<img src="../images/Redux.png" alt="Redux" width="60"/>
+<img src="../images/PostgreSQL.png" alt="PostgreSQL" width="60"/>
+<img src="../images/MySQL.png" alt="MySQL" width="60"/>
+<img src="../images/MongoDB.jpeg" alt="MongoDB" width="60"/>
+<img src="../images/HTML.png" alt="HTML" width="60"/>
+<img src="../images/CSS.png" alt="CSS" width="60"/>
 
- <!-- Ruby
-- Ruby on Rails
-- Javascript
-- React
-- HTML5
-- CSS 
-- PostgreSQL
-- MongoDB -->
+a
+
 </div>
-<!-- ![](../images/language_icons/bootstrap-plain-wordmark.svg) -->
+
 <br>
 
 {::nomarkdown}
