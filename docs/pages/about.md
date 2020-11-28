@@ -32,22 +32,40 @@ Since I was first enrolled into Stony Brook University as a Biomedical Engineeri
 <br>
 <div style="display:flex">
 
-<img src="../images/Ruby.jpg" alt="Ruby" width="60px" height="60px"/>
-<img src="../images/Ruby on Rails.jpeg" alt="Ruby on Rails" width="60px" height="60px"/>
-<img src="../images/Javascript.jpeg" alt="Javascript" width="60px" height="60px"/>
-<img src="../images/Python.jpeg" alt="Python" width="60px" height="60px"/>
-<img src="../images/React.png" alt="React" width="60px" height="60px"/>
-<img src="../images/Redux.png" alt="Redux" width="60"/>
-<img src="../images/PostgreSQL.png" alt="PostgreSQL" width="60"/>
-<img src="../images/MySQL.png" alt="MySQL" width="60"/>
-<img src="../images/MongoDB.jpeg" alt="MongoDB" width="60"/>
-<img src="../images/HTML.png" alt="HTML" width="60"/>
-<img src="../images/CSS.png" alt="CSS" width="60"/>
+<img src="../images/ruby.jpg" alt="ruby" width="50"/>
+<!-- <img src="../images/Ruby.jpg" alt="Ruby" width="60px" height="60px"/> -->
+<img src="../images/rails.jpeg" alt="Ruby on Rails" width="60px" height="60px"/>
+<img src="../images/javascript.jpeg" alt="Javascript" width="60px" height="60px"/>
+<img src="../images/python.jpeg" alt="Python" width="60px" height="60px"/>
+<img src="../images/react.png" alt="React" width="60px" height="60px"/>
+<img src="../images/redux.png" alt="Redux" width="60"/>
+<img src="../images/postgreSQL.png" alt="PostgreSQL" width="60"/>
+<img src="../images/mysql.png" alt="MySQL" width="60"/>
+<img src="../images/mongoDdb.jpeg" alt="MongoDB" width="60"/>
+<img src="../images/html.png" alt="HTML" width="60"/>
+<img src="../images/css.png" alt="CSS" width="60"/>
+<!-- ![](../images/ruby.jpg =100px)
+![](../images/rails.jpeg =100px)
+![](../images/javascript.jpeg =100px)
+![](../images/python.jpeg =100px)
+![](../images/react.png =100px)
+![](../images/redux.png =100px)
+![](../images/postgreSQL.png =100px)
+![](../images/mysql.png =100px)
+![](../images/mongodb.jpeg =100px)
+![](../images/html.png =100px)
+![](../images/css.png =100px) -->
 
-a
-
+ <!-- Ruby
+- Ruby on Rails
+- Javascript
+- React
+- HTML5
+- CSS 
+- PostgreSQL
+- MongoDB -->
 </div>
-
+<!-- ![](../images/language_icons/bootstrap-plain-wordmark.svg) -->
 <br>
 
 {::nomarkdown}
