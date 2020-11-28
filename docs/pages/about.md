@@ -32,11 +32,12 @@ Since I was first enrolled into Stony Brook University as a Biomedical Engineeri
 <br>
 Programming Languages
 <div style="display:flex">
-
 <img src="../images/python.jpeg" alt="Python" width="70px" height="70px"/>
 <img src="../images/ruby.jpg" alt="ruby" width="70px" height="70px" />
 <img src="../images/javascript.jpeg" alt="Javascript" width="70px" height="70px"/>
-<br/>
+</div>
+
+<div style="display:flex">
 <img src="../images/html.png" alt="HTML" width="70px" height="70px"/>
 <img src="../images/css.png" alt="CSS" width="70px" height="70px"/>
 </div>
