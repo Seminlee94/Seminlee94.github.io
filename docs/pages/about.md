@@ -41,7 +41,7 @@ Since I was first enrolled into Stony Brook University as a Biomedical Engineeri
 <img src="../images/redux.png" alt="Redux" width="60"/>
 <img src="../images/postgreSQL.png" alt="PostgreSQL" width="60"/>
 <img src="../images/mysql.png" alt="MySQL" width="60"/>
-<img src="../images/mongoDdb.jpeg" alt="MongoDB" width="60"/>
+<img src="../images/mongodb.jpeg" alt="MongoDB" width="60"/>
 <img src="../images/html.png" alt="HTML" width="60"/>
 <img src="../images/css.png" alt="CSS" width="60"/>
 <!-- ![](../images/ruby.jpg =100px)
