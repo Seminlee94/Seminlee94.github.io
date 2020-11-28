@@ -31,7 +31,18 @@ Since I was first enrolled into Stony Brook University as a Biomedical Engineeri
 ## Programming Skills
 <br>
 <div style="display:flex">
-![](../images/ruby.jpg =100px)
+![](../images/ruby.jpg)
+![](../images/rails.jpeg)
+![](../images/javascript.jpeg)
+![](../images/python.jpeg)
+![](../images/react.png)
+![](../images/redux.png)
+![](../images/postgreSQL.png)
+![](../images/mysql.png)
+![](../images/mongodb.jpeg)
+![](../images/html.png)
+![](../images/css.png)
+<!-- ![](../images/ruby.jpg =100px)
 ![](../images/rails.jpeg =100px)
 ![](../images/javascript.jpeg =100px)
 ![](../images/python.jpeg =100px)
@@ -41,7 +52,8 @@ Since I was first enrolled into Stony Brook University as a Biomedical Engineeri
 ![](../images/mysql.png =100px)
 ![](../images/mongodb.jpeg =100px)
 ![](../images/html.png =100px)
-![](../images/css.png =100px)
+![](../images/css.png =100px) -->
+
  <!-- Ruby
 - Ruby on Rails
 - Javascript
