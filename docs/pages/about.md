@@ -6,9 +6,9 @@ weight: 3
 ---
 
 # **About Me**
-<br>
+<br/>
 Hi I am **{{ site.author.name }}** :wave:,
-<br>
+<br/>
 
 I am a passionate programmer who transitioned into software engineering from nursing field. I have worked at health care field for 5 years as a nursing assistant, and went to Stony Brook School of Nursing to pursue Bachelor of Science with Nursing major. 
 
@@ -20,7 +20,7 @@ Since I was first enrolled into Stony Brook University as a Biomedical Engineeri
 
 
 ## Programming Skills
-<br>
+<br/>
 Programming Languages
 <div style="display:flex">
 <img src="../images/python.jpeg" alt="Python" width="70px" height="70px"/>
@@ -32,7 +32,7 @@ Programming Languages
 <img src="../images/html.png" alt="HTML" width="80px" height="70px"/>
 <img src="../images/css.png" alt="CSS" width="70px" height="70px"/>
 </div>
-<br>
+<br/>
 
 Framework
 <div style="display:flex">
@@ -69,8 +69,8 @@ Jogging and Hiking with my 4 year old girl, Cooking, Football, Lacrosse, and of 
 
 ## Certifications
 - M001: MongoDB Basics
-
 <br/>
+
 ## Resume
 <!-- ![](../images/Resume.png) -->
 <a href="https://drive.google.com/file/d/1QGfLAaisMwlI3u1FHXTYs9ian_ucPHnj/view?usp=sharing" target="_blank">Click for most updated Resume</a>
