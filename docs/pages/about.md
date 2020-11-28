@@ -30,43 +30,34 @@ Since I was first enrolled into Stony Brook University as a Biomedical Engineeri
 
 ## Programming Skills
 <br>
+Programming Languages
 <div style="display:flex">
 
-<img src="../images/ruby.jpg" alt="ruby" width="50"/>
-<!-- <img src="../images/Ruby.jpg" alt="Ruby" width="60px" height="60px"/> -->
-<img src="../images/rails.jpeg" alt="Ruby on Rails" width="60px" height="60px"/>
-<img src="../images/javascript.jpeg" alt="Javascript" width="60px" height="60px"/>
-<img src="../images/python.jpeg" alt="Python" width="60px" height="60px"/>
-<img src="../images/react.png" alt="React" width="60px" height="60px"/>
-<img src="../images/redux.png" alt="Redux" width="60"/>
-<img src="../images/postgreSQL.png" alt="PostgreSQL" width="60"/>
-<img src="../images/mysql.png" alt="MySQL" width="60"/>
-<img src="../images/mongodb.jpeg" alt="MongoDB" width="60"/>
-<img src="../images/html.png" alt="HTML" width="60"/>
-<img src="../images/css.png" alt="CSS" width="60"/>
-<!-- ![](../images/ruby.jpg =100px)
-![](../images/rails.jpeg =100px)
-![](../images/javascript.jpeg =100px)
-![](../images/python.jpeg =100px)
-![](../images/react.png =100px)
-![](../images/redux.png =100px)
-![](../images/postgreSQL.png =100px)
-![](../images/mysql.png =100px)
-![](../images/mongodb.jpeg =100px)
-![](../images/html.png =100px)
-![](../images/css.png =100px) -->
-
- <!-- Ruby
-- Ruby on Rails
-- Javascript
-- React
-- HTML5
-- CSS 
-- PostgreSQL
-- MongoDB -->
+<img src="../images/python.jpeg" alt="Python" width="70px" height="70px"/>
+<img src="../images/ruby.jpg" alt="ruby" width="70px" height="70px" />
+<img src="../images/javascript.jpeg" alt="Javascript" width="70px" height="70px"/>
+<img src="../images/html.png" alt="HTML" width="70px" height="70px"/>
+<img src="../images/css.png" alt="CSS" width="70px" height="70px"/>
 </div>
-<!-- ![](../images/language_icons/bootstrap-plain-wordmark.svg) -->
 <br>
+
+Framework
+<div style="display:flex">
+<img src="../images/rails.jpeg" alt="Ruby on Rails" width="70px" height="70px"/>
+<img src="../images/react.png" alt="React" width="70px" height="70px"/>
+<img src="../images/redux.png" alt="Redux" width="70px" height="70px"/>
+</div>
+<br/>
+
+Database
+<div style="display:flex">
+<img src="../images/postgreSQL.png" alt="PostgreSQL" width="70px" height="70px"/>
+<img src="../images/mysql.png" alt="MySQL" width="70px" height="70px"/>
+<img src="../images/mongodb.jpeg" alt="MongoDB" width="70px" height="70px"/>
+</div>
+<br/>
+
+
 
 {::nomarkdown}
 
