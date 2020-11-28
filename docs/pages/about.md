@@ -7,16 +7,8 @@ weight: 3
 
 # **About Me**
 <br>
-Hi I am **{{ site.author.name }}** :wave:,<br>
-<!-- My expected graduation date from Flatiron is October 23rd, 2020. I have worked at health care field for 5 years as a nursing assistant, and was in Stony Brook School of Nursing, pursuing for Bachelor of Science with Nursing major. -->
-
-<!-- Although I only had one year left until graduation, my first 4-weeks of coding experience captivated me and made me decide to quit nursing school and dive in deeper into the developer field.  -->
-
-<!-- The reason that I started studying for coding in the first place was becasue a project idea came into my mind while working at hospital. I really liked the idea, so I started to study coding during my nursing class. I am still in progress with the project, but I am hoping to present it for my capstone project. -->
-
-<!-- Other than nursing background, I was in biomedical engineering major until 3rd year in college, so I took a lot of mathematics, physics related studies. These classes gave me build up my problem solving skills, which helped me power through Flatiron school.  -->
-
-<!-- I would like to share my diverse knowledge with other developers, as well as learn from the others. In next 5 years, I envision myself working as a full-stack engineer, working collaboratively with others of common goals to pursue for the best for the company.  -->
+Hi I am **{{ site.author.name }}** :wave:,
+<br>
 
 I am a passionate programmer who transitioned into software engineering from nursing field. I have worked at health care field for 5 years as a nursing assistant, and went to Stony Brook School of Nursing to pursue Bachelor of Science with Nursing major. 
 
@@ -27,18 +19,17 @@ As a former healthcare worker, I have strong communication skills, teamwork, and
 Since I was first enrolled into Stony Brook University as a Biomedical Engineering major, I have taken majority of Mathmatics, Statistics, and Physics classes for the major. My strong problem solving skills comes from those classes, as well as my Python skill.
 
 
-
 ## Programming Skills
 <br>
 Programming Languages
 <div style="display:flex">
 <img src="../images/python.jpeg" alt="Python" width="70px" height="70px"/>
-<img src="../images/ruby.jpg" alt="ruby" width="70px" height="70px" />
+<img src="../images/ruby.jpg" alt="ruby" width="100px" height="70px" />
 <img src="../images/javascript.jpeg" alt="Javascript" width="70px" height="70px"/>
 </div>
 
 <div style="display:flex">
-<img src="../images/html.png" alt="HTML" width="70px" height="70px"/>
+<img src="../images/html.png" alt="HTML" width="80px" height="70px"/>
 <img src="../images/css.png" alt="CSS" width="70px" height="70px"/>
 </div>
 <br>
@@ -55,7 +46,7 @@ Database
 <div style="display:flex">
 <img src="../images/postgreSQL.png" alt="PostgreSQL" width="100px" height="100px"/>
 <img src="../images/mysql.png" alt="MySQL" width="100px" height="100px"/>
-<img src="../images/mongodb.jpeg" alt="MongoDB" width="100px" height="100px"/>
+<img src="../images/mongodb.jpeg" alt="MongoDB" width="100px" height="110px"/>
 </div>
 <br/>
 
@@ -73,14 +64,13 @@ Database
 </div> -->
 
 ## Hobbies
-<br>
 Jogging and Hiking with my 4 year old girl, Cooking, Football, Lacrosse, and of course, CODING  
-<br>
+<br/>
 
 ## Certifications
 - M001: MongoDB Basics
 
-
+<br/>
 ## Resume
 <!-- ![](../images/Resume.png) -->
 <a href="https://drive.google.com/file/d/1QGfLAaisMwlI3u1FHXTYs9ian_ucPHnj/view?usp=sharing" target="_blank">Click for most updated Resume</a>
