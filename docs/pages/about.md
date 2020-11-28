@@ -36,6 +36,7 @@ Programming Languages
 <img src="../images/python.jpeg" alt="Python" width="70px" height="70px"/>
 <img src="../images/ruby.jpg" alt="ruby" width="70px" height="70px" />
 <img src="../images/javascript.jpeg" alt="Javascript" width="70px" height="70px"/>
+<br/>
 <img src="../images/html.png" alt="HTML" width="70px" height="70px"/>
 <img src="../images/css.png" alt="CSS" width="70px" height="70px"/>
 </div>
@@ -51,9 +52,9 @@ Framework
 
 Database
 <div style="display:flex">
-<img src="../images/postgreSQL.png" alt="PostgreSQL" width="70px" height="70px"/>
-<img src="../images/mysql.png" alt="MySQL" width="70px" height="70px"/>
-<img src="../images/mongodb.jpeg" alt="MongoDB" width="70px" height="70px"/>
+<img src="../images/postgreSQL.png" alt="PostgreSQL" width="100px" height="100px"/>
+<img src="../images/mysql.png" alt="MySQL" width="100px" height="100px"/>
+<img src="../images/mongodb.jpeg" alt="MongoDB" width="100px" height="100px"/>
 </div>
 <br/>
 
