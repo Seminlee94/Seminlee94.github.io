@@ -32,17 +32,17 @@ Since I was first enrolled into Stony Brook University as a Biomedical Engineeri
 <br>
 <div style="display:flex">
 
-<img src="../images/Ruby.jpg" alt="Ruby" width="50" height="50"/>
-<img src="../images/Ruby on Rails.jpeg" alt="Ruby on Rails" width="50" height="50"/>
-<img src="../images/Javascript.jpeg" alt="Javascript" width="50" height="50"/>
-<img src="../images/Python.jpeg" alt="Python" width="50" height="50"/>
-<img src="../images/React.png" alt="React" width="50" height="50"/>
-<img src="../images/Redux.png" alt="Redux" width="50" height="50"/>
-<img src="../images/PostgreSQL.png" alt="PostgreSQL" width="50" height="50"/>
-<img src="../images/MySQL.png" alt="MySQL" width="50" height="50"/>
-<img src="../images/MongoDB.jpeg" alt="MongoDB" width="50" height="50"/>
-<img src="../images/HTML.png" alt="HTML" width="50" height="50"/>
-<img src="../images/CSS.png" alt="CSS" width="50" height="50"/>
+<img src="../images/Ruby.jpg" alt="Ruby" width="60px" height="60px"/>
+<img src="../images/Ruby on Rails.jpeg" alt="Ruby on Rails" width="60px" height="60px"/>
+<img src="../images/Javascript.jpeg" alt="Javascript" width="60px" height="60px"/>
+<img src="../images/Python.jpeg" alt="Python" width="60px" height="60px"/>
+<img src="../images/React.png" alt="React" width="60px" height="60px"/>
+<img src="../images/Redux.png" alt="Redux" width="60px" height="60px"/>
+<img src="../images/PostgreSQL.png" alt="PostgreSQL" width="60px" height="60px"/>
+<img src="../images/MySQL.png" alt="MySQL" width="60px" height="60px"/>
+<img src="../images/MongoDB.jpeg" alt="MongoDB" width="60px" height="60px"/>
+<img src="../images/HTML.png" alt="HTML" width="60px" height="60px"/>
+<img src="../images/CSS.png" alt="CSS" width="60px" height="60px"/>
 <!-- ![](../images/ruby.jpg =100px)
 ![](../images/rails.jpeg =100px)
 ![](../images/javascript.jpeg =100px)
