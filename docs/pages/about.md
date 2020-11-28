@@ -29,7 +29,7 @@ Programming Languages
 </div>
 
 <div style="display:flex">
-<img src="../images/html.png" alt="HTML" width="80px" height="70px"/>
+<img src="../images/html.png" alt="HTML" width="90px" height="70px"/>
 <img src="../images/css.png" alt="CSS" width="70px" height="70px"/>
 </div>
 <br/>
@@ -38,7 +38,7 @@ Framework
 <div style="display:flex">
 <img src="../images/rails.jpeg" alt="Ruby on Rails" width="70px" height="70px"/>
 <img src="../images/react.png" alt="React" width="70px" height="70px"/>
-<img src="../images/redux.png" alt="Redux" width="70px" height="70px"/>
+<img src="../images/redux.png" alt="Redux" width="85px" height="70px"/>
 </div>
 <br/>
 
